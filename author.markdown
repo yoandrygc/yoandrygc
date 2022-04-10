@@ -20,12 +20,16 @@ As Developer:
 
 You can contact me at:
 
+[LinkedIn](https://www.linkedin.com/in/yoandrygc)
+
 [Telegram](https://t.me/yoandrygc)
 
-[Whatsapp](https://t.me/yoandrygc)
+[Whatsapp](https://chat.whatsapp.com/KK11YFVPBIg8VUwHITnwqQ)
 
 [Facebook](https://facebook.com/yoandrygc)
 
 [Messenger](https://m.me/yoandrygc)
 
-[Twitter~](https://t.me/yoandrygc)
+[Twitter](https://twitter.com/yoandrygc)
+
+[Reddit](https://www.reddit.com/user/yoandrygc)
