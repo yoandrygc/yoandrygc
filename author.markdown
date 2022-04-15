@@ -19,18 +19,26 @@ As Developer:
 
 [Download CV](/files/CV-Developer_Yoandry_Gonzalez_Castro.pdf)
 
-You can contact me at:
+**You can contact me at:**
+
+Social networks:
 
 [LinkedIn](https://www.linkedin.com/in/yoandrygc)
+
+[Facebook](https://facebook.com/yoandrygc)
+
+[Twitter](https://twitter.com/yoandrygc)
+
+[Reddit](https://www.reddit.com/user/yoandrygc)
+
+Chats:
 
 [Telegram](https://t.me/yoandrygc)
 
 [Whatsapp](https://chat.whatsapp.com/KK11YFVPBIg8VUwHITnwqQ)
 
-[Facebook](https://facebook.com/yoandrygc)
-
 [Messenger](https://m.me/yoandrygc)
 
-[Twitter](https://twitter.com/yoandrygc)
+Coding platforms:
 
-[Reddit](https://www.reddit.com/user/yoandrygc)
+[Leetcode](https://leetcode.com/yoandrygc/)
