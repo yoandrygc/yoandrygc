@@ -39,6 +39,10 @@ Chats:
 
 [Messenger](https://m.me/yoandrygc)
 
+[Skype](https://join.skype.com/invite/wrJxJ7yQW383)
+
 Coding platforms:
 
 [Leetcode](https://leetcode.com/yoandrygc/)
+
+[Hackerrank](https://www.hackerrank.com/yoandrygc)
