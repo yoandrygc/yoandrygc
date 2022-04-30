@@ -22,7 +22,7 @@ title: G-Close
 email: yoandry.gonzalezc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog for publishing interesting articles on useful stuff, especially, related to software and language.
-  Powered by Jekyll.
+  Powered by Jekyll. Last Updated: 30/04/2022 06:44 AM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yoandrygc
