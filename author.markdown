@@ -15,6 +15,8 @@ The author of this blog is a dedicated polyglot, translator and software develop
 
 [Smartcat](https://www.smartcat.com/marketplace/user/yoandry-gonzalez)
 
+<a href="https://hosted.weblate.org/user/yoandrygc/"><img src="/files/weblate.svg" width="67" height="50" alt="profile for yoandrygc at Weblate, Platform for localization of libre software projects" title="profile for yoandrygc at Weblate, Platform for localization of libre software projects"> Weblate</a>
+
 <a href="https://www.duolingo.com/profile/yoandrygc"><img src="/files/duolingo.svg" width="58" height="58" alt="profile for yoandrygc at Duolingo, platform for language learning." title="profile for yoandrygc at Duolingo, platform for language learning.">Duolingo</a>
 
 <a href="https://app.tandem.net/members/yoandry4433520"><img src="/files/tandem.svg" width="208" height="58" alt="profile for yoandrygc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for yoandrygc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>

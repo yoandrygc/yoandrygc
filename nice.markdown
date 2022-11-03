@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nice?
+title: Contribute?
 permalink: /nice/
 ---
 

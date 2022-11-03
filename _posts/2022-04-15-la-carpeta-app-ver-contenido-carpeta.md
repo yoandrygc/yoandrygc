@@ -104,7 +104,7 @@ Así luce el escoger alguna variante de compartir:
 
 **¿Cómo un copiador genera el fichero de lo que hay?**
 
-1. En Everything, si quiero compartir lo que tengo en C:\Me\Acopiar pongo "C:\Me\Acopiar\\". Notar la barra invertida (\\) al final del camino: 
+1. En Everything, si quiero compartir lo que tengo en *C:\Me\Acopiar* pongo *"C:\Me\Acopiar\\"*. Notar la barra invertida (\\) al final del camino: 
 
 ![Guardando con Everything](/files/carpeta/Guardando con Everything.jpg)
 
