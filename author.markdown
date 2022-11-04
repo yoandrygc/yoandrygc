@@ -5,7 +5,8 @@ permalink: /author/
 ---
 
 The author of this blog is a dedicated polyglot, translator and software developer, seasoned by years of working in professional and scientific fields.
-**You could use my services on any of those areas.** 
+
+**You could use my services on any of the following areas.** 
 
 **As Translator:**
 
