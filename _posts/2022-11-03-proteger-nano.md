@@ -4,12 +4,11 @@ title:  "Proteger nano en exteriores"
 date:   2022-11-03 01:01:32 -0400
 categories: es tutorial
 ---
-### Introducción:
+#### **Introducción:**
 
-En este artículo puede aprender como proteger dispositivos de conexión a internet colocados en exteriores. El equipo de muestra utilizado es un *NanoStation M2*. 
+En este artículo puede aprender como proteger dispositivos de conexión a internet colocados en exteriores. El equipo de muestra utilizado es un *NanoStation M2*.
 
-
-### Desarrollo:
+#### **Desarrollo:**
 
 Tener internet en nuestro hogar ha pasado de ser un sueño a una realidad, y hasta una necesidad. Hoy es una comodidad a la que todos podemos acceder.
 
@@ -21,13 +20,13 @@ Un *NanoStation* es un CPE de banda ancha (*broadband CPE*), y es reconocido por
 
 El *NanoStation* se comercializa en los modelos M2, M5 y LOCO.
 
-### A continuación les describo un método de protección que me ha funcionado de maravillas:
+#### **A continuación les describo un método de protección que me ha funcionado de maravillas:**
 
 1. Conseguir un garrafa (pomo) de agua mineral de 4/5 litros o con características similares.
 2. Recortar el fondo hasta que se pueda doblar hacia afuera.
 3. Así es como queda.
 
-### Ventajas del método descrito:
+#### **Ventajas del método descrito:**
 
 1. La recepción de la señal mejora considerablemente, tanto en estabilidad como en fuerza.
 2. Protección contra la lluvia, el sol y el viento.
