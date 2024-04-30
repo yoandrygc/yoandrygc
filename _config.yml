@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: G-Close
+title: Glose
 email: yoandry.gonzalezc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog for publishing interesting articles on useful stuff, especially, related to software and language.
@@ -28,6 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yoandrygc
 github_username:  yoandrygc
 linkedin_username:  yoandrygc
+phone_number:  \+5354260522
+email_business:  yoandry.gonzalezc@gmail.com
+
 
 # Build settings
 theme: minima

@@ -22,3 +22,24 @@ DESKTOP:
 WEB:
 * This one.
 * That one.
+
+<script>
+    g_httpRequest = new XMLHttpRequest();
+    g_httpRequest.open("get", "https://jekyllrb.com/docs/", true);
+    g_httpRequest.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
+    g_httpRequest.send();
+    g_httpRequest.onreadystatechange=function()
+    {
+        if (g_httpRequest.readyState==4 && g_httpRequest.status==200)
+        {           
+            var responseText = g_httpRequest.responseText;
+            alert(responseText);
+        }
+        else if(g_httpRequest.readyState==4 && g_httpRequest.status != 200)
+        {
+            alert("request error "  + g_httpRequest.status);
+            return false;
+        }
+    }
+    alert('ok');
+</script>
